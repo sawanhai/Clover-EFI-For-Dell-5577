@@ -1,6 +1,7 @@
 # Clover-EFI-For-Dell-5577
 
-##2020-11-24 在wgggSg的基础上修改了OC引导的EFI，从15.7升级到big sur，wifi，蓝牙，摄像头，耳机，usb，睡眠都ok。
+##2020-11-24
+在wgggSg的基础上修改了OC引导的EFI，从15.7升级到big sur，wifi，蓝牙，摄像头，耳机，usb，睡眠都ok。
 
 ## 配置及改动
 
