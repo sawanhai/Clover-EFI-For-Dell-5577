@@ -1,5 +1,32 @@
 # Clover-EFI-For-Dell-5577
 
+##2020-11-24 在wgggSg的基础上修改了OC引导的EFI，从15.7升级到big sur，wifi，蓝牙，摄像头，耳机，usb，睡眠都ok。
+
+## 配置及改动
+
+ 硬件类型|型号
+ ------ | ----- 
+ 笔记本型号|Dell 5577 (Inspiron 15pr-5645b)
+ CPU|Intel Core i5-7300HQ（HD630）
+ 内存（扩容）| 8g*2
+ SSD（更换）|PLEXTOR PX-512M9PeG
+ M.2 NVME
+ HDD|   TOSHIBA MQ01ABF050      500g
+ 独显（***屏蔽***）|NVIDIA GTX1050 4G
+ 板载网卡|Realtek RTL8168H/8111H PCI Express Gigabit Ethernet
+ 无线网卡（更换）|DW1560/BCM94352z 802.11ac Wireless Network Adapter
+ 声卡|Realtek ALC 256
+ 显示屏  原厂
+
+
+
+
+
+
+------------------------------------------------------------------------------------------------------
+
+
+
   从2018年10月1日利用课下时间折腾Hackintosh，断断续续，中间也曾因  配置文件不完美放弃折腾投奔*ArchLinux*，最后还是遵循了真香定律（手动滑稽）  
   双十二弃坑Linux，回归黑果，以前没能解决的问题不知道为什么突然解决了，也就顺其自然地折腾好了属于自己电脑的Clover文件，分享一下。  
   ### 这份配置文件结合了很多前辈的经验和教程，网友们太厉害了！  
